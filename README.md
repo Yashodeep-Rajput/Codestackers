@@ -1,6 +1,6 @@
-#codestackers
+#Codestackers
 
-<h1>This is my first git repository</h1>
+<h1>This is my first Git Repository</h1>
 <hr>
 <br>
 Author - Yashodeep Rajput
